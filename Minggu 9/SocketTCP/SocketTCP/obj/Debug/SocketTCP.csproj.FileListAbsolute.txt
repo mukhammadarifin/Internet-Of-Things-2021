@@ -1,0 +1,84 @@
+F:\Unisba\Project VS\SocketTCP\SocketTCP\obj\Debug\SocketTCP.csprojAssemblyReference.cache
+F:\Unisba\Project VS\SocketTCP\SocketTCP\obj\Debug\SocketTCP.frmKontrolTCP.resources
+F:\Unisba\Project VS\SocketTCP\SocketTCP\obj\Debug\SocketTCP.Properties.Resources.resources
+F:\Unisba\Project VS\SocketTCP\SocketTCP\obj\Debug\SocketTCP.csproj.GenerateResource.cache
+F:\Unisba\Project VS\SocketTCP\SocketTCP\obj\Debug\SocketTCP.csproj.CoreCompileInputs.cache
+F:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\SocketTCP.exe.config
+F:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\SocketTCP.exe
+F:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\SocketTCP.pdb
+F:\Unisba\Project VS\SocketTCP\SocketTCP\obj\Debug\SocketTCP.exe
+F:\Unisba\Project VS\SocketTCP\SocketTCP\obj\Debug\SocketTCP.pdb
+F:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\M2Mqtt.Net.dll
+F:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\MQTTnet.dll
+F:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\System.Net.Security.dll
+F:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\System.Net.WebSockets.Client.dll
+F:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\System.Net.WebSockets.dll
+F:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\M2Mqtt.Net.pdb
+F:\Unisba\Project VS\SocketTCP\SocketTCP\obj\Debug\SocketTCP.csproj.CopyComplete
+E:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\SocketTCP.exe.config
+E:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\SocketTCP.exe
+E:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\SocketTCP.pdb
+E:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\M2Mqtt.Net.dll
+E:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\MQTTnet.dll
+E:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\System.Net.Security.dll
+E:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\System.Net.WebSockets.dll
+E:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Unisba\Project VS\SocketTCP\SocketTCP\bin\Debug\M2Mqtt.Net.pdb
+E:\Unisba\Project VS\SocketTCP\SocketTCP\obj\Debug\SocketTCP.csprojAssemblyReference.cache
+E:\Unisba\Project VS\SocketTCP\SocketTCP\obj\Debug\SocketTCP.frmKontrolTCP.resources
+E:\Unisba\Project VS\SocketTCP\SocketTCP\obj\Debug\SocketTCP.Properties.Resources.resources
+E:\Unisba\Project VS\SocketTCP\SocketTCP\obj\Debug\SocketTCP.csproj.GenerateResource.cache
+E:\Unisba\Project VS\SocketTCP\SocketTCP\obj\Debug\SocketTCP.csproj.CoreCompileInputs.cache
+E:\Unisba\Project VS\SocketTCP\SocketTCP\obj\Debug\SocketTCP.csproj.CopyComplete
+E:\Unisba\Project VS\SocketTCP\SocketTCP\obj\Debug\SocketTCP.exe
+E:\Unisba\Project VS\SocketTCP\SocketTCP\obj\Debug\SocketTCP.pdb
+E:\Polinema\Polinema 2021\MK IoT 2021\Lab\Pertemuan 9\SocketTCP\SocketTCP\obj\Debug\SocketTCP.csprojAssemblyReference.cache
+E:\Polinema\Polinema 2021\MK IoT 2021\Lab\Pertemuan 9\SocketTCP\SocketTCP\obj\Debug\SocketTCP.frmKontrolTCP.resources
+E:\Polinema\Polinema 2021\MK IoT 2021\Lab\Pertemuan 9\SocketTCP\SocketTCP\obj\Debug\SocketTCP.Properties.Resources.resources
+E:\Polinema\Polinema 2021\MK IoT 2021\Lab\Pertemuan 9\SocketTCP\SocketTCP\obj\Debug\SocketTCP.csproj.GenerateResource.cache
+E:\Polinema\Polinema 2021\MK IoT 2021\Lab\Pertemuan 9\SocketTCP\SocketTCP\obj\Debug\SocketTCP.csproj.CoreCompileInputs.cache
+E:\Polinema\Polinema 2021\MK IoT 2021\Lab\Pertemuan 9\SocketTCP\SocketTCP\obj\Debug\SocketTCP.exe
+E:\Polinema\Polinema 2021\MK IoT 2021\Lab\Pertemuan 9\SocketTCP\SocketTCP\obj\Debug\SocketTCP.pdb
+E:\Polinema\Polinema 2021\MK IoT 2021\Lab\Pertemuan 9\SocketTCP\SocketTCP\bin\Debug\SocketTCP.exe.config
+E:\Polinema\Polinema 2021\MK IoT 2021\Lab\Pertemuan 9\SocketTCP\SocketTCP\bin\Debug\SocketTCP.exe
+E:\Polinema\Polinema 2021\MK IoT 2021\Lab\Pertemuan 9\SocketTCP\SocketTCP\bin\Debug\SocketTCP.pdb
+E:\Polinema\Polinema 2021\MK IoT 2021\Lab\Pertemuan 9\SocketTCP\SocketTCP\bin\Debug\M2Mqtt.Net.dll
+E:\Polinema\Polinema 2021\MK IoT 2021\Lab\Pertemuan 9\SocketTCP\SocketTCP\bin\Debug\MQTTnet.dll
+E:\Polinema\Polinema 2021\MK IoT 2021\Lab\Pertemuan 9\SocketTCP\SocketTCP\bin\Debug\System.Net.Security.dll
+E:\Polinema\Polinema 2021\MK IoT 2021\Lab\Pertemuan 9\SocketTCP\SocketTCP\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Polinema\Polinema 2021\MK IoT 2021\Lab\Pertemuan 9\SocketTCP\SocketTCP\bin\Debug\System.Net.WebSockets.dll
+E:\Polinema\Polinema 2021\MK IoT 2021\Lab\Pertemuan 9\SocketTCP\SocketTCP\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Polinema\Polinema 2021\MK IoT 2021\Lab\Pertemuan 9\SocketTCP\SocketTCP\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Polinema\Polinema 2021\MK IoT 2021\Lab\Pertemuan 9\SocketTCP\SocketTCP\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Polinema\Polinema 2021\MK IoT 2021\Lab\Pertemuan 9\SocketTCP\SocketTCP\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Polinema\Polinema 2021\MK IoT 2021\Lab\Pertemuan 9\SocketTCP\SocketTCP\bin\Debug\M2Mqtt.Net.pdb
+E:\Polinema\Polinema 2021\MK IoT 2021\Lab\Pertemuan 9\SocketTCP\SocketTCP\obj\Debug\SocketTCP.csproj.CopyComplete
+E:\POLINEMA\SEMESTER 6\INTERNET OF THING\Minggu 9\SocketTCP\SocketTCP\bin\Debug\SocketTCP.exe.config
+E:\POLINEMA\SEMESTER 6\INTERNET OF THING\Minggu 9\SocketTCP\SocketTCP\bin\Debug\SocketTCP.exe
+E:\POLINEMA\SEMESTER 6\INTERNET OF THING\Minggu 9\SocketTCP\SocketTCP\bin\Debug\SocketTCP.pdb
+E:\POLINEMA\SEMESTER 6\INTERNET OF THING\Minggu 9\SocketTCP\SocketTCP\bin\Debug\M2Mqtt.Net.dll
+E:\POLINEMA\SEMESTER 6\INTERNET OF THING\Minggu 9\SocketTCP\SocketTCP\bin\Debug\MQTTnet.dll
+E:\POLINEMA\SEMESTER 6\INTERNET OF THING\Minggu 9\SocketTCP\SocketTCP\bin\Debug\System.Net.Security.dll
+E:\POLINEMA\SEMESTER 6\INTERNET OF THING\Minggu 9\SocketTCP\SocketTCP\bin\Debug\System.Net.WebSockets.Client.dll
+E:\POLINEMA\SEMESTER 6\INTERNET OF THING\Minggu 9\SocketTCP\SocketTCP\bin\Debug\System.Net.WebSockets.dll
+E:\POLINEMA\SEMESTER 6\INTERNET OF THING\Minggu 9\SocketTCP\SocketTCP\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\POLINEMA\SEMESTER 6\INTERNET OF THING\Minggu 9\SocketTCP\SocketTCP\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\POLINEMA\SEMESTER 6\INTERNET OF THING\Minggu 9\SocketTCP\SocketTCP\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\POLINEMA\SEMESTER 6\INTERNET OF THING\Minggu 9\SocketTCP\SocketTCP\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\POLINEMA\SEMESTER 6\INTERNET OF THING\Minggu 9\SocketTCP\SocketTCP\bin\Debug\M2Mqtt.Net.pdb
+E:\POLINEMA\SEMESTER 6\INTERNET OF THING\Minggu 9\SocketTCP\SocketTCP\obj\Debug\SocketTCP.csprojAssemblyReference.cache
+E:\POLINEMA\SEMESTER 6\INTERNET OF THING\Minggu 9\SocketTCP\SocketTCP\obj\Debug\SocketTCP.frmKontrolTCP.resources
+E:\POLINEMA\SEMESTER 6\INTERNET OF THING\Minggu 9\SocketTCP\SocketTCP\obj\Debug\SocketTCP.Properties.Resources.resources
+E:\POLINEMA\SEMESTER 6\INTERNET OF THING\Minggu 9\SocketTCP\SocketTCP\obj\Debug\SocketTCP.csproj.GenerateResource.cache
+E:\POLINEMA\SEMESTER 6\INTERNET OF THING\Minggu 9\SocketTCP\SocketTCP\obj\Debug\SocketTCP.csproj.CoreCompileInputs.cache
+E:\POLINEMA\SEMESTER 6\INTERNET OF THING\Minggu 9\SocketTCP\SocketTCP\obj\Debug\SocketTCP.csproj.CopyComplete
+E:\POLINEMA\SEMESTER 6\INTERNET OF THING\Minggu 9\SocketTCP\SocketTCP\obj\Debug\SocketTCP.exe
+E:\POLINEMA\SEMESTER 6\INTERNET OF THING\Minggu 9\SocketTCP\SocketTCP\obj\Debug\SocketTCP.pdb
